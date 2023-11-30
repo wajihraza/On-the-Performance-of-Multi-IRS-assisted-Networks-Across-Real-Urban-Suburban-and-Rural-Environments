@@ -1,4 +1,5 @@
-# On-the-Performance-of-Multi-IRS-assisted-Networks-Across-Real-World-Environments
+# On the Performance of Multi-IRS-assisted Networks Across Real Urban, Suburban, and Rural Environments
+
 
 # Authors
 Muhammad Ibrahim, Wajih Hassan Raza, Muhammad Moiz, Sarah Bhasarat, Haejoon Jung, Syed Ali Hassan
